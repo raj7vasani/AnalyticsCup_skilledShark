@@ -34,4 +34,4 @@ Finally, we deployed the best-performing model to make predictions on the privat
 
 For detailed code implementation and analysis, refer to the Jupyter Notebook.
 
-**Project developed by Raj Vasani, Tushar Khandelwal
+## Project developed by Raj Vasani, Tushar Khandelwal
