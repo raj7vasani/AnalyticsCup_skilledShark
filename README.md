@@ -25,12 +25,12 @@ We trained three different models to predict recipe likes:
 We evaluated each model's performance using balanced accuracy scores on the testing set.
 
 ## Deployment
-Finally, we deployed the best-performing model to make predictions on the private test set, contributing to improving the overall service quality of LLMeals.
+Finally, we deployed the Gradient Boosting Classifier to make predictions on the private test set, contributing to improving the overall service quality of LLMeals.
 
 ## Files
 - `README.md`: Overview of the project and instructions.
-- `JupyterNotebook.ipynb`: Jupyter Notebook containing data analysis, model training, and deployment.
-- `predictions_skilled_shark.csv`: Predictions for the private test set in the required format for submission.
+- `skilledShark.ipynb`: Jupyter Notebook containing data analysis, model training, and deployment.
+- `TestData.csv` : Data used to test the accuracy of the models.
 
 For detailed code implementation and analysis, refer to the Jupyter Notebook.
 
