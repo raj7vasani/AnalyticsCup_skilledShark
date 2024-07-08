@@ -25,7 +25,7 @@ We trained three different models to predict recipe likes:
 We evaluated each model's performance using balanced accuracy scores on the testing set.
 
 ## Deployment
-Finally, we deployed the Gradient Boosting Classifier to make predictions on the private test set, contributing to improving the overall service quality of LLMeals.
+Finally, we deployed the Gradient Boosting Classifier to make predictions on the private test set. The balanced accuracy on the private test set was 78%.
 
 ## Files
 - `README.md`: Overview of the project and instructions.
